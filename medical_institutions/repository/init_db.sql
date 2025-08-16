@@ -1,3 +1,8 @@
+-- CREATE DATABASE medical_institutions IF NOT EXISTS;
+-- CREATE USER medinst_user WITH ENCRYPTED PASSWORD 'Adm1nistr@t0r';
+-- GRANT ALL PRIVILEGES ON DATABASE medical_institutions TO medinst_user;
+
+
 CREATE TYPE institution_type AS ENUM ('hospital', 'clinic', 'medical_school', 'veterinary_school', 'academic_medical_center', 'other');
 
 CREATE TABLE institutions (

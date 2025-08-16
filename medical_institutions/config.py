@@ -2,9 +2,9 @@ from enum import Enum
 
 # Database parameters (use environment variables or .env for production)
 DB_PARAMS = {
-    'dbname': 'medical_institutions_db',
-    'user': 'your_user',
-    'password': 'your_password',
+    'dbname': 'medical_institutions',
+    'user': 'medinst_user',
+    'password': 'Adm1nistr@t0r',
     'host': 'localhost',
     'port': 5432
 }
