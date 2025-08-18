@@ -16,11 +16,11 @@ class ExtractionMonitor:
     
     def generate_extraction_report(self, countries=None):
         """Generate comprehensive extraction report"""
-        countries_filter = ""
+        where_clause = ""
         params = []
         
         if countries:
-            countries_filter = "WHERE country = ANY(%s)"
+            where_clause = "WHERE country = ANY(%s)"
             params.append(countries)
         
         # Basic statistics
@@ -33,7 +33,7 @@ class ExtractionMonitor:
                 COUNT(CASE WHEN latitude IS NOT NULL AND longitude IS NOT NULL THEN 1 END) as with_coordinates,
                 MAX(last_updated) as last_updated
             FROM institutions 
-            {countries_filter}
+            {where_clause}
             GROUP BY country, type
             ORDER BY country, type
         """, params)
@@ -83,11 +83,11 @@ class ExtractionMonitor:
     
     def generate_quality_report(self, countries=None):
         """Generate data quality metrics"""
-        countries_filter = ""
+        where_clause = ""
         params = []
         
         if countries:
-            countries_filter = "WHERE country = ANY(%s)"
+            where_clause = "WHERE country = ANY(%s)"
             params.append(countries)
         
         print("\n" + "="*80)
@@ -106,7 +106,7 @@ class ExtractionMonitor:
                 COUNT(website) as has_website,
                 COUNT(CASE WHEN latitude IS NOT NULL AND longitude IS NOT NULL THEN 1 END) as has_coordinates
             FROM institutions 
-            {countries_filter}
+            {where_clause}
             GROUP BY country
             ORDER BY country
         """, params)
@@ -134,7 +134,7 @@ class ExtractionMonitor:
             FROM (
                 SELECT country, name, COUNT(*) as name_count
                 FROM institutions 
-                {countries_filter}
+                {where_clause}
                 GROUP BY country, name
                 HAVING COUNT(*) > 1
             ) duplicates
@@ -151,12 +151,14 @@ class ExtractionMonitor:
     
     def generate_source_analysis(self, countries=None):
         """Analyze data sources and their contributions"""
-        countries_filter = ""
+        where_clauses = ["additional_attributes->>'source' IS NOT NULL"]
         params = []
         
         if countries:
-            countries_filter = "WHERE country = ANY(%s)"
+            where_clauses.append("country = ANY(%s)")
             params.append(countries)
+        
+        where_clause = "WHERE " + " AND ".join(where_clauses)
         
         print("\n" + "="*80)
         print("DATA SOURCE ANALYSIS")
@@ -169,8 +171,7 @@ class ExtractionMonitor:
                 type,
                 COUNT(*) as count
             FROM institutions 
-            {countries_filter}
-            WHERE additional_attributes->>'source' IS NOT NULL
+            {where_clause}
             GROUP BY country, additional_attributes->>'source', type
             ORDER BY country, count DESC
         """, params)
@@ -196,12 +197,14 @@ class ExtractionMonitor:
     
     def validate_coordinates(self, countries=None):
         """Validate geographic coordinates"""
-        countries_filter = ""
+        where_clauses = ["latitude IS NOT NULL", "longitude IS NOT NULL"]
         params = []
         
         if countries:
-            countries_filter = "WHERE country = ANY(%s)"
+            where_clauses.append("country = ANY(%s)")
             params.append(countries)
+        
+        where_clause = "WHERE " + " AND ".join(where_clauses)
         
         print("\n" + "="*80)
         print("COORDINATE VALIDATION")
@@ -216,9 +219,7 @@ class ExtractionMonitor:
                 COUNT(CASE WHEN longitude < -180 OR longitude > 180 THEN 1 END) as invalid_lng,
                 COUNT(CASE WHEN latitude = 0 AND longitude = 0 THEN 1 END) as null_island
             FROM institutions 
-            {countries_filter}
-            AND latitude IS NOT NULL 
-            AND longitude IS NOT NULL
+            {where_clause}
             GROUP BY country
         """, params)
         
@@ -235,11 +236,11 @@ class ExtractionMonitor:
     
     def export_summary_csv(self, filename="extraction_summary.csv", countries=None):
         """Export summary data to CSV"""
-        countries_filter = ""
+        where_clause = ""
         params = []
         
         if countries:
-            countries_filter = "WHERE country = ANY(%s)"
+            where_clause = "WHERE country = ANY(%s)"
             params.append(countries)
         
         self.cur.execute(f"""
@@ -252,7 +253,7 @@ class ExtractionMonitor:
                 MAX(last_updated) as last_updated,
                 STRING_AGG(DISTINCT additional_attributes->>'source', ', ') as sources
             FROM institutions 
-            {countries_filter}
+            {where_clause}
             GROUP BY country, type, state, city
             ORDER BY country, type, state, city
         """, params)

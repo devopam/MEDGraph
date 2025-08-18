@@ -10,7 +10,7 @@ import bs4 as BeautifulSoup
 import tempfile
 import pdfplumber
 import re
-from ..config import DB_PARAMS, InstitutionType
+from config import DB_PARAMS, InstitutionType
 
 logger = logging.getLogger(__name__)
 

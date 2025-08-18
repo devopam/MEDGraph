@@ -6,8 +6,8 @@ import bs4 as BeautifulSoup
 import pdfplumber
 import tempfile
 import re
-from ..config import InstitutionType
-from .base import BaseExtractor
+from config import InstitutionType
+from extractors.base import BaseExtractor
 
 logger = logging.getLogger(__name__)
 

@@ -1,0 +1,331 @@
+country,type,state,city,count,last_updated,sources
+IND,hospital,Andhra Pradesh,,51,2025-08-18 17:22:03.205510,Wikipedia
+IND,hospital,Chennai,,49,2025-08-18 17:22:03.255334,Wikipedia
+IND,hospital,Delhi,,26,2025-08-18 17:22:03.221331,Wikipedia
+IND,hospital,Himachal Pradesh,,55,2025-08-18 17:22:03.221331,Wikipedia
+IND,hospital,Madhya Pradesh,,14,2025-08-18 17:22:03.221331,Wikipedia
+IND,hospital,Mumbai,,70,2025-08-18 17:22:03.236978,Wikipedia
+IND,hospital,Uttar Pradesh,,32,2025-08-18 17:22:03.255334,Wikipedia
+IND,medical_school,,Adoor,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Agartala,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Agra,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Agroha,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Ahmedabad,5,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Ahmednagar,2,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Akbarpur,1,2025-08-18 17:22:03.347111,Wikipedia
+IND,medical_school,,Ambajogai,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Ambedkar Nagar,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Ambikapur,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Amravati,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Amreli,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Ansari Nagar West,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Arambagh,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Ariyalur,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Atkot,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Ayodhya,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Azamgarh,1,2025-08-18 17:22:03.347111,Wikipedia
+IND,medical_school,,Bagalkot,2,2025-08-18 17:22:03.297519,Wikipedia
+IND,medical_school,,Bahraich,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Ballari,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Balmiki Basti,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Bambolim,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Banda,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Bankura,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Baramati,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Bareilly,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Basti,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Belagavi,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Bengaluru,5,2025-08-18 17:22:03.297519,Wikipedia
+IND,medical_school,,Berhampore,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Bhadrak,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Bharatpur,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Bharuch,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Bhawanipatna,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Bhilai,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Bhilwara,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Bhiwani,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Bhopal,6,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Bijnor,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Bikaner,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Bolpur,1,2025-08-18 17:22:03.376424,Wikipedia
+IND,medical_school,,Brahmapur,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Chamba,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Chandauli,1,2025-08-18 17:22:03.347111,Wikipedia
+IND,medical_school,,Chandrapur,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Channapatna,1,2025-08-18 17:22:03.297519,Wikipedia
+IND,medical_school,,Chengalpattu,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Chennai,6,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Chetput,1,2025-08-18 17:22:03.335332,Wikipedia
+IND,medical_school,,Chidambaram,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Chitradurga,2,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Churachandpur,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Civil Lines,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Coimbatore,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Connaught Place,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Cooch Behar,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Cuddalore,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Dahod,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Delhi Cantonment,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Deoria,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Dhanbad,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Dharmapuri,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Dharwad,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Dhule,2,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Diamond Harbour,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Dilshad Garden,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Dindigul,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Dumka,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Durg,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Durgapur,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Erode,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Etah,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Faridabad,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Faridkot,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Farrukhabad,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Fatehpur,1,2025-08-18 17:22:03.347111,Wikipedia
+IND,medical_school,,Ghaziabad,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Gorakhpur,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Guntur,1,2025-08-18 17:22:03.255334,Wikipedia
+IND,medical_school,,Guwahati,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Gwalior,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Hamirpur,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Hazaribagh,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Hubballi,2,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Hyderabad,4,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Indore,2,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Jabalpur,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Jagdalpur,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Jaipur,3,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Jajpur,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Jalaun,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Jalgaon,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Jalpaiguri,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Jammu,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Jamnagar,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Jamshedpur,2,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Jangipur,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Jaunpur,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Jhajjar,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Jhalawar,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Jhansi,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Jhargram,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Jodhpur,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Kadi,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Kakinada,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Kalaburagi,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Kallakurichi,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Kalol,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Kalyani,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Kamarhati,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Kanker,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Kannauj,1,2025-08-18 17:22:03.347111,Wikipedia
+IND,medical_school,,Kanyakumari,1,2025-08-18 17:22:03.335332,Wikipedia
+IND,medical_school,,Karamsad,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Karnal,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Karur,1,2025-08-18 17:22:03.331425,Wikipedia
+IND,medical_school,,Khagaria,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Khammam,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Khandwa,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Kishanganj,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Kokrajhar,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Kolar,1,2025-08-18 17:22:03.297519,Wikipedia
+IND,medical_school,,Kolenchery,1,2025-08-18 17:22:03.305074,Wikipedia
+IND,medical_school,,Kolhapur,2,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Kolkata,2,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Kozhikode,2,2025-08-18 17:22:03.305074,Wikipedia
+IND,medical_school,,Krishnagiri,1,2025-08-18 17:22:03.331425,Wikipedia
+IND,medical_school,,Kurnool,2,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Kurukshetra,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Latur,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Lucknow,2,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Ludhiana,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Madhepura,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Madhubani,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Madurai,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Mahabubnagar,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Malappuram,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Mandi,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Mandsaur,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Mangaluru,2,2025-08-18 17:22:03.297519,Wikipedia
+IND,medical_school,,Mathura,2,2025-08-18 17:22:03.347111,Wikipedia
+IND,medical_school,,Meerut,1,2025-08-18 17:22:03.347111,Wikipedia
+IND,medical_school,,Midnapore,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Mirzapur,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Moinabad,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Mon,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Mumbai,6,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Muzaffarnagar,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Muzaffarpur,2,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Mysuru,2,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Nagapattinam,1,2025-08-18 17:22:03.331425,Wikipedia
+IND,medical_school,,Nagpur,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Nahan,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Nalbari,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Nanded,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Nandyal,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Nashik,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Navi Mumbai,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Neemuch,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Nellikuppam,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Nellore,2,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,North Lakhimpur,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Nuh,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Ooty,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Palakkad,1,2025-08-18 17:22:03.304569,Wikipedia
+IND,medical_school,,Palamu,2,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Palanpur,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Patiala,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Patna,5,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Perambalur,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Perinthalmanna,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Phulbani,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Pratapgarh,1,2025-08-18 17:22:03.347111,Wikipedia
+IND,medical_school,,Prayagraj,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Puducherry,3,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Pudukkottai,1,2025-08-18 17:22:03.333325,Wikipedia
+IND,medical_school,,Pulivendula,1,2025-08-18 17:22:03.255334,Wikipedia
+IND,medical_school,,Pune,6,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Purba Bardhaman,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Purulia,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Puttur,1,2025-08-18 17:22:03.255334,Wikipedia
+IND,medical_school,,Raichur,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Raigarh,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Raipur,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Rajahmundry,1,2025-08-18 17:22:03.255334,Wikipedia
+IND,medical_school,,Rajkot,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Rajnandgaon,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Ramanathapuram,1,2025-08-18 17:22:03.333325,Wikipedia
+IND,medical_school,,Ratlam,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Ratnagiri,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Renigunta,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Rewa,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Ri-Bhoi,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Rohini,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Sagar,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Saharanpur,2,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Saharsa,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Salem,2,2025-08-18 17:22:03.331425,Wikipedia
+IND,medical_school,,Samastipur,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Sambhal,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Sangli,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Shahdol,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Shahjahanpur,2,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Shimla,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Shivpuri,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Siddharthnagar,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Sikar,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Siliguri,1,2025-08-18 17:22:03.362827,Wikipedia
+IND,medical_school,,Sivagangai,1,2025-08-18 17:22:03.333325,Wikipedia
+IND,medical_school,,Solan,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Solapur,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Sonipat,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Sri Ganganagar,2,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Sullia,1,2025-08-18 17:22:03.284107,Wikipedia
+IND,medical_school,,Surat,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Surendranagar,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Talcher,1,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Thandalam,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Thanjavur,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Theni,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Thiruvalla,1,2025-08-18 17:22:03.299849,Wikipedia
+IND,medical_school,,Thiruvananthapuram,2,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Thiruvarur,1,2025-08-18 17:22:03.333325,Wikipedia
+IND,medical_school,,Thodupuzha,1,2025-08-18 17:22:03.297519,Wikipedia
+IND,medical_school,,Thoothukudi,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Tinsukia,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Tirunelveli,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Tirupati,2,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Tiruvannamalai,1,2025-08-18 17:22:03.335332,Wikipedia
+IND,medical_school,,Trichy,1,2025-08-18 17:22:03.335332,Wikipedia
+IND,medical_school,,Udaipur,3,2025-08-18 17:22:03.315676,Wikipedia
+IND,medical_school,,Ujjain,1,2025-08-18 17:22:03.305643,Wikipedia
+IND,medical_school,,Uluberia,1,2025-08-18 17:22:03.376424,Wikipedia
+IND,medical_school,,Unnao,1,2025-08-18 17:22:03.354851,Wikipedia
+IND,medical_school,,Vadodara,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Vellore,1,2025-08-18 17:22:03.335332,Wikipedia
+IND,medical_school,,Vijayapura,2,2025-08-18 17:22:03.296852,Wikipedia
+IND,medical_school,,Vijayawada,1,2025-08-18 17:22:03.268390,Wikipedia
+IND,medical_school,,Villupuram,1,2025-08-18 17:22:03.335332,Wikipedia
+IND,medical_school,,Virudhunagar,1,2025-08-18 17:22:03.335332,Wikipedia
+IND,medical_school,,Visakhapatnam,1,2025-08-18 17:22:03.255334,Wikipedia
+IND,medical_school,,Visnagar,1,2025-08-18 17:22:03.276458,Wikipedia
+IND,medical_school,,Warangal,1,2025-08-18 17:22:03.337337,Wikipedia
+IND,medical_school,,Wayanad,1,2025-08-18 17:22:03.299849,Wikipedia
+IND,academic_medical_center,Andhra Pradesh,Mangalagiri,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Assam,Guwahati,1,2025-08-18 17:22:03.197467,Government Records
+IND,academic_medical_center,Bihar,Darbhanga,1,2025-08-18 17:22:03.197467,Government Records
+IND,academic_medical_center,Bihar,Patna,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Chhattisgarh,Raipur,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Delhi,New Delhi,1,2025-08-18 17:22:03.180263,Government Records
+IND,academic_medical_center,Gujarat,Rajkot,1,2025-08-18 17:22:03.197467,Government Records
+IND,academic_medical_center,Himachal Pradesh,Bilaspur,1,2025-08-18 17:22:03.197467,Government Records
+IND,academic_medical_center,Jammu and Kashmir,Jammu,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Jammu and Kashmir,Vijaypur,1,2025-08-18 17:22:03.197467,Government Records
+IND,academic_medical_center,Jharkhand,Deoghar,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Madhya Pradesh,Bhopal,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Maharashtra,Nagpur,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Odisha,Bhubaneswar,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Punjab,Bathinda,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Rajasthan,Jodhpur,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Tamil Nadu,Madurai,1,2025-08-18 17:22:03.197467,Government Records
+IND,academic_medical_center,Telangana,Bibinagar,1,2025-08-18 17:22:03.197467,Government Records
+IND,academic_medical_center,Uttar Pradesh,Gorakhpur,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,Uttar Pradesh,Raebareli,1,2025-08-18 17:22:03.196950,Government Records
+IND,academic_medical_center,Uttarakhand,Rishikesh,1,2025-08-18 17:22:03.189639,Government Records
+IND,academic_medical_center,West Bengal,Kalyani,1,2025-08-18 17:22:03.196228,Government Records
+USA,hospital,AK,,25,2025-08-18 17:04:43.477303,CMS
+USA,hospital,AL,,99,2025-08-18 17:04:43.477303,CMS
+USA,hospital,AR,,85,2025-08-18 17:04:43.509274,CMS
+USA,hospital,AZ,,106,2025-08-18 17:04:43.500720,CMS
+USA,hospital,CA,,379,2025-08-18 17:04:43.572587,CMS
+USA,hospital,CO,,97,2025-08-18 17:04:43.588490,CMS
+USA,hospital,CT,,37,2025-08-18 17:04:43.604279,CMS
+USA,hospital,DC,,10,2025-08-18 17:04:43.604279,CMS
+USA,hospital,DE,,13,2025-08-18 17:04:43.604279,CMS
+USA,hospital,FL,,149,2025-08-18 17:04:43.620055,CMS
+USA,medical_school,M.D. College of Medicine at the University of Vermont,Robert Larner,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,Albany Medical College,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Alice L. Walton School of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Anne Burnett Marion School of Medicine at TCU,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Boonshoft School of Medicine Wright State University,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Boston University Aram V. Chobanian & Edward Avedisian School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Brody School of Medicine at East Carolina University,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,California Northstate University College of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Carle Illinois College of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Central Michigan University College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Charles E. Schmidt College of Medicine at Florida Atlantic University,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Cooper Medical School of Rowan University,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Creighton University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Drexel University College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,East Tennessee State University James H. Quillen College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Eastern Virginia Medical School at Old Dominion University,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,Emory University School of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Frank H. Netter MD School of Medicine at Quinnipiac University,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Geisel School of Medicine at Dartmouth,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,George Washington University School of Medicine and Health Sciences,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Indiana University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,John A. Burns School of Medicine University of Hawaii at Manoa,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Johns Hopkins University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Kirk Kerkorian School of Medicine at UNLV,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Louisiana State University School of Medicine in Shreveport,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Marshall University Joan C. Edwards School of Medicine,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,Mayo Clinic Alix School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Medical College of Wisconsin,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,Medical University of South Carolina College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Oregon Health & Science University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Ponce Health Sciences University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Saint Louis University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Spencer Fox Eccles School of Medicine at the University of Utah,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,The Warren Alpert Medical School of Brown University,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Alabama at Birmingham Marnix E. Heersink School of Medicine,1,2025-08-18 17:04:43.366412,LCME
+USA,medical_school,,University of Arizona College of Medicine -  Phoenix,1,2025-08-18 17:04:43.413662,LCME
+USA,medical_school,,University of Colorado School of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,University of Iowa Roy J. and Lucille A. Carver College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Kansas School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Kentucky College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Mississippi School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of New Mexico School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of North Dakota School of Medicine and Health Sciences,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Oklahoma College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of South Dakota Sanford School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Washington School of Medicine,1,2025-08-18 17:04:43.461538,LCME

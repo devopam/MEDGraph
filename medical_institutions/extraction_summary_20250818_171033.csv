@@ -1,0 +1,57 @@
+country,type,state,city,count,last_updated,sources
+USA,hospital,AK,,25,2025-08-18 17:04:43.477303,CMS
+USA,hospital,AL,,99,2025-08-18 17:04:43.477303,CMS
+USA,hospital,AR,,85,2025-08-18 17:04:43.509274,CMS
+USA,hospital,AZ,,106,2025-08-18 17:04:43.500720,CMS
+USA,hospital,CA,,379,2025-08-18 17:04:43.572587,CMS
+USA,hospital,CO,,97,2025-08-18 17:04:43.588490,CMS
+USA,hospital,CT,,37,2025-08-18 17:04:43.604279,CMS
+USA,hospital,DC,,10,2025-08-18 17:04:43.604279,CMS
+USA,hospital,DE,,13,2025-08-18 17:04:43.604279,CMS
+USA,hospital,FL,,149,2025-08-18 17:04:43.620055,CMS
+USA,medical_school,M.D. College of Medicine at the University of Vermont,Robert Larner,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,Albany Medical College,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Alice L. Walton School of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Anne Burnett Marion School of Medicine at TCU,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Boonshoft School of Medicine Wright State University,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Boston University Aram V. Chobanian & Edward Avedisian School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Brody School of Medicine at East Carolina University,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,California Northstate University College of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Carle Illinois College of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Central Michigan University College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Charles E. Schmidt College of Medicine at Florida Atlantic University,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Cooper Medical School of Rowan University,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Creighton University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Drexel University College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,East Tennessee State University James H. Quillen College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Eastern Virginia Medical School at Old Dominion University,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,Emory University School of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Frank H. Netter MD School of Medicine at Quinnipiac University,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Geisel School of Medicine at Dartmouth,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,George Washington University School of Medicine and Health Sciences,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Indiana University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,John A. Burns School of Medicine University of Hawaii at Manoa,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,Johns Hopkins University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Kirk Kerkorian School of Medicine at UNLV,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Louisiana State University School of Medicine in Shreveport,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Marshall University Joan C. Edwards School of Medicine,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,Mayo Clinic Alix School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Medical College of Wisconsin,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,Medical University of South Carolina College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Oregon Health & Science University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Ponce Health Sciences University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Saint Louis University School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,Spencer Fox Eccles School of Medicine at the University of Utah,1,2025-08-18 17:04:43.461538,LCME
+USA,medical_school,,The Warren Alpert Medical School of Brown University,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Alabama at Birmingham Marnix E. Heersink School of Medicine,1,2025-08-18 17:04:43.366412,LCME
+USA,medical_school,,University of Arizona College of Medicine -  Phoenix,1,2025-08-18 17:04:43.413662,LCME
+USA,medical_school,,University of Colorado School of Medicine,1,2025-08-18 17:04:43.429711,LCME
+USA,medical_school,,University of Iowa Roy J. and Lucille A. Carver College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Kansas School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Kentucky College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Mississippi School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of New Mexico School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of North Dakota School of Medicine and Health Sciences,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Oklahoma College of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of South Dakota Sanford School of Medicine,1,2025-08-18 17:04:43.445432,LCME
+USA,medical_school,,University of Washington School of Medicine,1,2025-08-18 17:04:43.461538,LCME

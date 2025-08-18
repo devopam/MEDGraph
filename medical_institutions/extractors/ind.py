@@ -5,8 +5,8 @@ from io import StringIO
 import bs4 as BeautifulSoup
 import json
 import re
-from ..config import InstitutionType
-from .base import BaseExtractor
+from config import InstitutionType
+from extractors.base import BaseExtractor
 
 logger = logging.getLogger(__name__)
 
