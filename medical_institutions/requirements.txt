@@ -7,3 +7,5 @@ psycopg2-binary>=2.9.9
 smart_open>=7.0.4
 loguru>=0.7.2
 python-Levenshtein>=0.25.0
+lxml>=5.1.0
+openpyxl>=3.1.2

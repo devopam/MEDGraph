@@ -183,4 +183,32 @@ class BaseExtractor:
                                 continue
                             for row in table[1:]:  # Skip header
                                 if not row or len(row) < 2:
-                
+                                    continue
+                                
+                                if country_filter in str(row[0]):
+                                    name = row[1] if len(row) > 1 else row[0]
+                                    address = row[2] if len(row) > 2 else ''
+                                    
+                                    # Parse city and state from address
+                                    city_state = address.split(',')[-2:] if address else ['', '']
+                                    city = city_state[0].strip() if len(city_state) > 1 else None
+                                    state = city_state[1].strip() if len(city_state) > 1 else None
+                                    
+                                    data.append({
+                                        'name': name,
+                                        'city': city,
+                                        'state': state,
+                                        'address': address,
+                                        'type': InstitutionType.VETERINARY_SCHOOL,
+                                        'additional_attributes': {
+                                            'accreditation': row[3] if len(row) > 3 else 'AVMA',
+                                            'source': 'AVMA'
+                                        }
+                                    })
+            
+            logger.info(f"Fetched {len(data)} vet schools from AVMA for {country_filter}")
+            return data
+            
+        except Exception as e:
+            logger.error(f"Error fetching AVMA: {e}")
+            return []
